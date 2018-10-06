@@ -60,7 +60,7 @@ text-align: right;
   text-decoration: none;
 }
 
-#details a:link {
+#details a:hover {
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
 }
